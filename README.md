@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-<!--
-**Moshahrani/Moshahrani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -15,7 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I have a twin sister.
 
 <img src="https://github-readme-stats.vercel.app/api?username=moshahrani&show_icons=true"/>
--->
 
 
 
