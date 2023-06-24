@@ -2,7 +2,7 @@
 You can call me Mosh!
 
 
-Here are some ideas to get you started:
+
 
 - 🔭 I’m currently working on freelancing & learning/building with new technologies
 - 🌱 I’m currently learning python, react-native development
