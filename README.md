@@ -13,10 +13,12 @@ Here are some ideas to get you started:
 - 📫 How to reach me: Feel free to reach out to me through the contact information available on my GitHub profile.
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I have a twin sister.
+
+<img src="https://github-readme-stats.vercel.app/api?username=moshahrani&show_icons=true"/>
 -->
 
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=moshahrani&show_icons=true"/>
+
 
 
