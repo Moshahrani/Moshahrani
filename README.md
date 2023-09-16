@@ -18,7 +18,7 @@
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,python,postgres,mysql,mongodb,aws,react,bootstrap,nextjs,django,&perline=4&theme=dark)](https://skillicons.dev)
 
 ## Current Developing
-[Check this out](https://giphy.com/embed/Us4BQNQoGJ59PPE4NM)
+![](https://giphy.com/embed/Us4BQNQoGJ59PPE4NM)
 
 <br></br>
 
