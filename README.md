@@ -18,8 +18,7 @@
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,python,postgres,mysql,mongodb,aws,react,bootstrap,nextjs,django,&perline=4&theme=dark)](https://skillicons.dev)
 
 ## Current Developing
-<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/Us4BQNQoGJ59PPE4NM" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div>
-
+[![Alt Text](https://some.url/image.png)](https://giphy.com/embed/Us4BQNQoGJ59PPE4NM)
 
 <br></br>
 
