@@ -12,7 +12,8 @@
 - 📫 How to reach me: Feel free to reach out to me through the contact information available on my GitHub profile.
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I have a twin sister.
-- 
+
+
 ## Favorite Technologies
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,python,postgres,mysql,mongodb,aws,react,bootstrap,reactnextjs,django,&perline=4&theme=dark)](https://skillicons.dev)
 
