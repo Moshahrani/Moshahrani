@@ -18,6 +18,7 @@
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,python,postgres,mysql,mongodb,aws,react,bootstrap,nextjs,django,&perline=4&theme=dark)](https://skillicons.dev)
 
 <br></br>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=moshahrani)](https://git.io/streak-stats)
 <img src="https://github-readme-stats.vercel.app/api?username=moshahrani&show_icons=true"/>
 
 
