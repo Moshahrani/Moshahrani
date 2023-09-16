@@ -15,7 +15,7 @@
 
 
 ## Favorite Technologies
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,python,postgres,mysql,mongodb,aws,react,bootstrap,react,nextjs,django,&perline=4&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,python,postgres,mysql,mongodb,aws,react,bootstrap,react,,django,&perline=4&theme=dark)](https://skillicons.dev)
 
 <br></br>
 <img src="https://github-readme-stats.vercel.app/api?username=moshahrani&show_icons=true"/>
