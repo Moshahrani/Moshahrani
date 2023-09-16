@@ -13,7 +13,7 @@ You can call me Mosh!
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I have a twin sister.
 
-- Favorite Technologies
+- <h2>Favorite Technologies</h2>
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,python,postgres,mysql,mongodb&theme=dark)](https://skillicons.dev)
 <img src="https://github-readme-stats.vercel.app/api?username=moshahrani&show_icons=true"/>
 
