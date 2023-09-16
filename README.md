@@ -19,8 +19,7 @@
 
 <br></br>
 
-<
-(https://github-readme-stats.vercel.app/api?username=moshahrani&theme=dark&show_icons=true)
+<img (https://github-readme-stats.vercel.app/api?username=moshahrani&theme=dark&show_icons=true) />
 
 
 
