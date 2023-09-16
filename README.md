@@ -1,5 +1,5 @@
 ### Hi there 👋, My name is Moshfeq Shahrani
-You can call me Mosh!
+## You can call me Mosh!
 
 
 
@@ -12,8 +12,9 @@ You can call me Mosh!
 - 📫 How to reach me: Feel free to reach out to me through the contact information available on my GitHub profile.
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I have a twin sister.
+- 
 ## Favorite Technologies
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,python,postgres,mysql,mongodb,aws,react,bootstrap,nextjs,&perline=4&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,python,postgres,mysql,mongodb,aws,react,bootstrap,reactnextjs,django,&perline=4&theme=dark)](https://skillicons.dev)
 
 <br></br>
 <img src="https://github-readme-stats.vercel.app/api?username=moshahrani&show_icons=true"/>
