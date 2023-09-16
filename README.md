@@ -20,7 +20,7 @@
 <br></br>
 
 
-![Moshfeq's GitHub stats](https://github-readme-stats.vercel.app/api?username=moshahrani&theme=dark&show_icons=true)
+![Moshfeq's GitHub stats](https://github-readme-stats.vercel.app/api?username=moshahrani&theme=aura&show_icons=true)
 
 
 
