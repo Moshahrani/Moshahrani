@@ -14,7 +14,7 @@ You can call me Mosh!
 - ⚡ Fun fact: I have a twin sister.
 
 - Favorite Technologies
-[![My Skills](https://skillicons.dev/icons?i=js,nodejs,html,css&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,python,postgres,mysql,mongodb&theme=dark)](https://skillicons.dev)
 <img src="https://github-readme-stats.vercel.app/api?username=moshahrani&show_icons=true"/>
 
 
