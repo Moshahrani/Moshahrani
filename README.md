@@ -12,8 +12,7 @@ You can call me Mosh!
 - 📫 How to reach me: Feel free to reach out to me through the contact information available on my GitHub profile.
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I have a twin sister.
-
-#Favorite Technologies
+## Favorite Technologies
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,python,postgres,mysql,mongodb&theme=dark)](https://skillicons.dev)
 <img src="https://github-readme-stats.vercel.app/api?username=moshahrani&show_icons=true"/>
 
